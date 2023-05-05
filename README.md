@@ -1,2 +1,2 @@
 # DataStructures
-These are programs I did in my college for Data Structures and Algorithms-1.
+These are programs I did in my college to practice Data Structures and Algorithms.
